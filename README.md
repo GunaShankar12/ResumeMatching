@@ -37,12 +37,18 @@ The percentage of match and matched and unmatched skills will be displayed to up
 
 # Team Members
 T. Minnikeswar Rao
+
 Sk. Riyaz
+
 P. Sanjay
+
 K. Guna Shankar
+
 B. Harika
+
 K. Vinay Kumar
+
 T. Yateesh
 
-Acknowledgments
+ # Acknowledgments
 We would like to thank the organizers of the hackathon for providing us with the opportunity to showcase our skills and build this application. We also extend our gratitude to the open-source community for their valuable contributions in the development of Streamlit and NLP libraries.
